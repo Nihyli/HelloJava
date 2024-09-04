@@ -9,6 +9,7 @@ public class Hello
     public static void main(String[] args) {
         System.out.println("Yohannes Hailu");
         System.out.println("Computer Science and Math");
-        
+        System.out.println("Mihir Lochan Maruvada");
+        System.out.println("Computer Science");
     }
 }
